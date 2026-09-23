@@ -17,7 +17,7 @@ QUESTIONS = [
     "Ravi is taller than Kumar. Kumar is taller than Arun. Priya is shorter than Arun. "
     "Who is the tallest and who is the shortest?",
 ]
-~
+
 DIRECT_PROMPT = "You are a helpful assistant. Give only the final answer. Do not explain."
 
 COT_PROMPT = ("You are a helpful assistant. Solve the problem step by step. "
